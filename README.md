@@ -2,7 +2,9 @@
 ## There are three modules :
 
 1.Content Based Recommender Systems
+
 2.Collaborative Filtering Based Recommender Systems
+
 3.Evaluation Metrics for Recommender Systems
 
 # Know the Data
