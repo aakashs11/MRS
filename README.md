@@ -27,6 +27,8 @@ Collaborative filtering methods work with utility matrices containg user x item 
 
 Building a collaborative system using SVD: Using the utility matrix the system predicts ratings for a new user-item pair and evaluates the performance using RMSE.
 
+![https://github.com/aakashs11/MRS/blob/master/download.png]
+
 # Metric Description
 
 F1  a. The ratio of empty and total entries in the utility matrix.
@@ -40,3 +42,4 @@ Recall  d. Deviation between actual and predicted ratings.
 Accuracy  e. Harmonic mean of precision and recall.
 
 Sparsity   f. Proportion of recommended results that are relevant.
+
